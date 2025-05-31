@@ -1,0 +1,15 @@
+.container-fluid {
+  /* estica na tela inteira, usado para backgrounds */
+  max-width: auto;
+}
+
+.container {
+  /* alinhar o conteudo ao centro e limitra a largura da página */
+  max-width: 98rem;
+  margin: 0 auto;
+}
+
+.content {
+  /* conteudo */
+  margin: 3.2rem;
+}
